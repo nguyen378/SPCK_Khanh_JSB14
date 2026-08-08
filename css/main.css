@@ -1,0 +1,29 @@
+.list-group li {
+  list-style-type: none;
+  
+}
+.list-group li a {
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(78, 78, 78);
+
+}
+.display-5{
+  font-weight:light;
+}
+.fw-lighter{
+  font-size: small;
+}
+.card-text {
+  font-weight: lighter;
+}
+.card mb-3 {
+   display: flex;
+   justify-content: center;
+}
+.display-6{
+  font-weight:200 ;
+}
+.social-icon{
+  color: black;
+}

@@ -1,0 +1,14 @@
+
+.carousel-control-prev,
+.carousel-control-next{
+    width: 6%;
+    opacity: 1;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+    width: 14px;
+    height: 14px;
+    background-size: 100%;
+    filter: invert(1);
+}
